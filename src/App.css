@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.color-brand{
+    color: #353353;
+}
+
+.bg-brand{
+    background-color: #353353;
+}
+.bg-brand-light{
+    background-color: #F9F9FF;
+}

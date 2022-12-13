@@ -1,0 +1,7 @@
+.home{
+    background-image: url('../../../images/homebg.png');
+    color: aliceblue;
+    background-position: center center;
+    background-size: cover;
+    padding: 4em 0em 3em 0em;
+}
